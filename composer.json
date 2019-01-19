@@ -14,8 +14,8 @@
          "php": ">=5.3.0"
         
     },
-    "minimum-stability":"stable",
-    "prefer-stable":true,
+    "minimum-stability":"dev"
+    
 
     "autoload": {
         "psr-4": {
