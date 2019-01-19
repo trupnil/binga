@@ -14,7 +14,7 @@
          "php": ">=5.3.0",
         
     },
-    "minimum-stability":"deb",
+    "minimum-stability":"dev",
     "prefer-stable":true,
 
     "autoload": {
