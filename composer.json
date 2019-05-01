@@ -1,16 +1,16 @@
 {
-    "name": "binga/binga",
-    "description": "this is mvc framwork",
-    "type": "package",
-    "license": "mit",
-    "authors": [
+    "name":"binga/binga",
+    "description":"this is mvc framwork",
+    "type":"package",
+    "license":"mit",
+    "authors":[
         {
             "name": "Trupnil Brahmbhatt",
             "email": "iamtrupnil@gmail.com"
         }
     ],
    
-    "require": {
+    "require":{
         
         
     },
@@ -18,8 +18,8 @@
    
     
 
-    "autoload": {
-        "psr-4": {
+    "autoload":{
+        "psr-4":{
             "ourcodeworld\\HelloComposer\\": "src"
              
         }
